@@ -32,7 +32,11 @@ This repo is the theme directory itself (Omarchy clones it into `~/.config/omarc
 - `shell.*.toml` — gold lock, bar, menu, and launcher accents
 - `keyboard.rgb` — gold keyboard backlight
 - `icons.theme` — `Yaru-olive` for warm olive file icons
-- `backgrounds/wallpaper.png` — official Jugend wallpaper
+- `backgrounds/` — four official wallpapers (Omarchy cycles backgrounds in the folder):
+  - `wallpaper.png` — full border frame with lilies and peacock feathers
+  - `wallpaper-quiet.png` — faint lily damask with a thin gold edge
+  - `wallpaper-peacock.png` — peacock feathers along the sides
+  - `wallpaper-secession.png` — Klimt / Stoclet geometric mosaic
 - `preview.png` / `preview-unlock.png` — theme switcher previews
 
 Terminal configs, Lua, and `vscode.json` are intentionally omitted so Omarchy generates them from templates at install time.
