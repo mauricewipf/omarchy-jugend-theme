@@ -1,0 +1,11 @@
+text = "#e6d7bf"
+placeholder = "#8a7b66"
+text-error = "#b5524a"
+border = "#c9a84c"
+border-active = "rgba(c9a84cee) rgba(3f6e72ee) 45deg"
+border-error = "#b5524a"
+border-alpha = 0.85
+border-width = 1
+selection = "#c9a84c"
+selection-alpha = 0.45
+background-alpha = 0.82
