@@ -32,12 +32,16 @@ This repo is the theme directory itself (Omarchy clones it into `~/.config/omarc
 - `shell.*.toml` — gold lock, bar, menu, and launcher accents
 - `keyboard.rgb` — gold keyboard backlight
 - `icons.theme` — `Yaru-olive` for warm olive file icons
-- `backgrounds/` — four official wallpapers (Omarchy cycles backgrounds in the folder):
-  - `wallpaper.png` — full border frame with lilies and peacock feathers
-  - `wallpaper-quiet.png` — faint lily damask with a thin gold edge
-  - `wallpaper-peacock.png` — peacock feathers along the sides
-  - `wallpaper-secession.png` — Klimt / Stoclet geometric mosaic
-- `preview.png` / `preview-unlock.png` — theme switcher previews
+- `backgrounds/` — seven official wallpapers (Omarchy picks the first sorted file as the default and cycles through the folder):
+  - `fruehlingsstrasse-jugendstadt.png` — **default**; bustling spring street in a c. 1900 Jugendstil town
+  - `kaffeehaus-unter-kastanien.png` — twilight corner coffeehouse under blooming horse chestnuts
+  - `lesesaal-zur-abendstunde.png` — quiet walnut reading room with curved gallery and brass table lamps
+  - `lilienrahmen-mit-pfauenfedern.png` — full border frame with gilded lilies and peacock feathers over faint lily damask
+  - `nachtfalter-im-silberblatt.png` — emperor moth and silver honesty seed pods on warm black ground
+  - `palmenhaus-bei-mondlicht.png` — moonlit glass-and-iron botanical conservatory reflected in a park basin
+  - `stadtbahnpavillon-nach-dem-regen.png` — glowing Jugendstil Stadtbahn pavilion after evening rain
+- `unlock.png` / `preview-unlock.png` — gilded Omarchy Plymouth boot logo and boot switcher preview
+- `preview.png` — theme switcher preview (`Style → Theme`)
 
 Terminal configs, Lua, and `vscode.json` are intentionally omitted so Omarchy generates them from templates at install time.
 
